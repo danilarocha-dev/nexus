@@ -46,10 +46,9 @@ Para configurar e executar este projeto em sua máquina local, siga os passos ab
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <url-do-repositorio>
+    git clone https://github.com/danilarocha-dev/nexus
     ```
-    (Substitua `<url-do-repositorio>` pela URL real do seu repositório Git.)
-
+    
 2.  **Navegue até o diretório do projeto:**
     ```bash
     cd nexus
@@ -78,18 +77,12 @@ No diretório do projeto, você pode executar:
 ## Como Usar
 
 1.  Ao iniciar a aplicação, você verá um formulário na parte superior da página.
-2.  Preencha os campos "Nome", "Cargo" e "Imagem" (com uma URL válida para a foto do colaborador).
+2.  Preencha os campos "Nome", "Cargo" e "Imagem" (com uma URL válida para a foto do colaborador .png `Ex: https://github.com/username.png` ).
 3.  Selecione a "Time" desejada na lista suspensa.
 4.  Clique no botão "Criar Card".
 5.  O novo colaborador será adicionado à seção da equipe correspondente abaixo do formulário.
 
-## Contribuição
 
-Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou encontrar algum bug, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 ## ✍️ Autor
 
